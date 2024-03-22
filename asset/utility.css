@@ -295,25 +295,51 @@
 .ml-2 {
     margin-left: 30px;
 }
+
 .star-c {
     color: #a0a0a0;
 }
-i{
+
+i {
     cursor: pointer;
-    
+
 }
+
 .star-c:hover {
     /* box-shadow: 0px 0px 10px #ffffff; */
     /* border: 1px solid #ff0000; */
     color: #ed1817;
 }
+
 .star-c:active {
 
     color: #302b2b;
 }
-.pt-1{
+
+.pt-1 {
     padding-top: 15px;
 }
-.mb--4{
+
+.mb--4 {
     margin-bottom: 25px;
+}
+
+nav :hover {
+    color: red;
+}
+
+.hover :hover {
+    color: #ed1817 !important;
+}
+
+.hover {
+    cursor: pointer;
+}
+
+.hover-none :hover {
+    color: #000000 !important;
+}
+
+input {
+    padding: 10px;
 }

@@ -90,40 +90,52 @@ div li {
     font-size: 1.11rem;
     font-weight: 300px;
 }
-.b-b{
+
+.b-b {
     border-bottom: 1px solid grey;
     padding-bottom: 40px;
     width: 1200px;
     margin: 0 auto;
-    background-image:url(../pics/back\ ground\ logo.webp) ;
+    background-image: url(../pics/back\ ground\ logo.webp);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: 30%;
-    
+
 }
-.margin-left2{
+
+.margin-left2 {
     margin-left: 70px;
 }
-.margin-right2{
+
+.margin-right2 {
     margin-right: 70px;
 }
-.mt-8{
+
+.mt-8 {
     margin-top: 43%;
 }
-.border2{
+
+.border2 {
     border: 1px solid rgb(92, 85, 85);
     width: 600px;
     height: 500px;
 
 }
-.gap{
+
+.border2:hover {
+    border: 5px solid rgb(92, 85, 85);
+}
+
+.gap {
     gap: 20px;
 }
-.gap2{
+
+.gap2 {
     gap: 40px;
 }
-.bg-img{
-    background-image:url(../pics/back\ ground\ logo.webp) ;
+
+.bg-img {
+    background-image: url(../pics/back\ ground\ logo.webp);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: 30%;
